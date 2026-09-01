@@ -10,6 +10,7 @@ MarkupSafe==3.0.3
 narwhals==2.25.0
 numpy==2.5.2
 pypdf==6.16.2
+gunicorn
 PyPDF2==3.0.1
 python-docx==1.2.0
 scikit-learn==1.9.0
